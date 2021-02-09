@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1067688361962",
+    "firebase_url": "https://abcd-1d517.firebaseio.com",
+    "project_id": "abcd-1d517",
+    "storage_bucket": "abcd-1d517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067688361962:android:9d8b6fc733cfd5682f7c93",
+        "android_client_info": {
+          "package_name": "com.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067688361962-fqjf8eivvfkg35h22rd9b53fkrir6q0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcBlQgmYaSdxbev6oEqBTxgmYQLU2yT8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067688361962-fqjf8eivvfkg35h22rd9b53fkrir6q0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067688361962:android:49c4154cab13addc2f7c93",
+        "android_client_info": {
+          "package_name": "com.example.abcd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067688361962-2ic065dl76gcejq4pk5htmqlvkc5grj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abcd",
+            "certificate_hash": "b74f53ee3ffe7d2d3f5e3cc3bf1d83795f9cb92f"
+          }
+        },
+        {
+          "client_id": "1067688361962-fqjf8eivvfkg35h22rd9b53fkrir6q0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcBlQgmYaSdxbev6oEqBTxgmYQLU2yT8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067688361962-fqjf8eivvfkg35h22rd9b53fkrir6q0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

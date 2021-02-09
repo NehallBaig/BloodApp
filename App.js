@@ -24,10 +24,15 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 import Navigation from './navigator';
-const App= () => {
+
+const App = () => {
   return (
     <>
-     <Navigation/>
+    
+         <Navigation/>
+    
+      
+           
     </>
   );
 };
